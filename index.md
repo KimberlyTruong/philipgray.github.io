@@ -4,6 +4,14 @@ title: "Disengagement in Open Source"
 permalink: 
 ---
 
+
+
+cmu reu 2021 on open source disengagement
+
+sloane foundation
+
+
+
 ## Cultural Factors
 
 Placeholder
