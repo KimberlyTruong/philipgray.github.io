@@ -8,7 +8,7 @@ permalink:
 
 cmu reu 2021 on open source disengagement
 
-sloane foundation
+foundation
 
 
 
