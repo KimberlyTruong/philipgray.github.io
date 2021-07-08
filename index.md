@@ -132,7 +132,7 @@ This contributor left their company which had them working primairly on two proj
 
 https://phoronix.com/scan.php?page=news_item&px=Wayland-DF-Stepping-Down
 
-
+### <a name="HR"></a>Health Reasons
 
 
 
@@ -199,7 +199,7 @@ This contributor had been feeling overworked for nearly two years. While it wasn
 
 > I am also extremely burnt out. The very small mobile team has been through a gauntlet in order to ship a full rewrite of the flagship Firefox for Android browser (partly during the pandemic no less). Working too much during the week for the last 2 years was normal for me and while never asked for from my team, I cared deeply about the product and the success and it would have been impossible to hit our deadlines and ship something I was proud of without it. 
 
-### <a name="GUILT"></a>Feeling of Guilt
+### <a name="GUILT"></a>Feelings of Guilt
 
 Where contributors would disengage due to feelings of guilt. Typically associated with other factors as well such as not having enough time for the project and as a result feeling guilty that they're unable to address all the issues, etc. that a project has. 
 
