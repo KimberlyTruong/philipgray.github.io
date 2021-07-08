@@ -1,0 +1,30 @@
+---
+layout: page
+title: The Economics of Open Source by C. J. Silverio (JSConf EU 2019)
+permalink: /052
+---
+
+[![x](https://img.shields.io/badge/-Community%20Leadership-yellow)](/#CL) [![x](https://img.shields.io/badge/-Lack%20of%20Support-e2062c)](/#LOS) 
+
+### Who?
+
+**Github: **[ceejbot](https://github.com/ceejbot)
+
+**Project:** [npm](https://github.com/npm/cli)
+
+### Why?
+
+Silverio cited two issues that lead to him disengaging from npm (leaving his position as CTO of npm inc.) and some other open source projects (which were not specifically named) in JSConf EU 2019. His main issue was the lack of compensation with open source projects.
+
+> "Here's a fact of the world: servers cost money. Who pays for them? For years, Node manager ran on donated hosting." (11:24)
+
+Silverio believed the community leadership was questionable and the lack of compensation would give them no reason to change.
+
+> "The management of our commons is opaque to us. It will be opaque to you until the company that owns it has a financial incentive to change it. You don't know what is happening with your package data.You have to trust it." (24:31)
+
+Throughout his talk, Silverio continually mentions companies and larger corporations will buy out the project in order for it to survive, thus he believed it was inevitable that contributors, like him, leave.
+
+**For reference:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MO8hZlgK5zc?start=680" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
