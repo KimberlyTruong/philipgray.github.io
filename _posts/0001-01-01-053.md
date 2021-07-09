@@ -1,0 +1,26 @@
+---
+layout: page
+title: The Selfish Programmer by Justin Searls (RailsConf 2019)
+permalink: /053
+---
+
+[![x](https://img.shields.io/badge/-Not%20Enough%20Time%20(Internal)-darkblue)](/#NETI) [![x](https://img.shields.io/badge/-Lack%20of%20Support-e2062c)](/#LOS) 
+
+### Who?
+
+**Github:** [searls](https://github.com/searls)
+
+**Project:** [Ruby](https://github.com/ruby)
+
+### Why?
+
+Searls cites one issue that led him to disengage from open source communities for a period of time at RailsConf 2019. At the time, he actively contributed to Ruby, specifically [Ruby setup](https://github.com/ruby/setup-ruby), and was one of the few contributors. Searls believed he lacked support from his peers and did not have enough time to implement everything he wanted.
+
+> "When you're solo, you know that your time is limited and so if we add too many gems, things like upgrades and workarounds may eventually consume more time than we have to give the app." (8:08)
+
+This disappointment led Searls to take a break from open source. He returned later on when he joined a software agency working on open source projects, [Test Double](https://github.com/testdouble), and remains active today.
+
+**For reference:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k5thkp4ZXSI?start=488" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
