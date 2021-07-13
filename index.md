@@ -134,6 +134,8 @@ https://phoronix.com/scan.php?page=news_item&px=Wayland-DF-Stepping-Down
 
 ### <a name="HR"></a>Health Reasons
 
+Where contributors would disengage due to various health reasons. 
+
 
 
 ## Volunteering / Placeholder
@@ -189,7 +191,7 @@ This contributor also disengaged because the lines between hobby and work starte
 
 > in the end its meant that I'm no longer enjoying what i was doing and it felt like work not a hobby.
 
-### <a name="BURNOUT"></a>Burnout
+### <a name="BT"></a>Burnout
 
 Where contributors would disengage because of feeling burned out. Typically caused by a prolonged stressors, and results in a feeling of constant mental and physical fatigue. 
 
