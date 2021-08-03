@@ -1,0 +1,40 @@
+---
+layout: page
+title: Lodash &amp; Open Source (JavaScript Air Episode 012)
+permalink: /062
+tag: [Not-Enough-Time(Internal)]
+---
+
+[![x](https://img.shields.io/badge/-Not%20Enough%20Time%20(Internal)-darkblue)](/#NETI)
+
+### Who?
+
+**Github:** [jdalton](https://github.com/jdalton)
+
+**Project:** [Lodash](https://github.com/lodash/lodash)
+
+**Date:** March 2016
+
+### Why?
+
+The lead maintainer of Lodash, John-David Dalton discusses what led their peers to leave their open source communities. John-David gives a second hand account of their experiences, having not disengaged themself until April 2019 for unidentified reasons.
+
+John-David explains the lack of a work life balance which impacts all contributors. According to them, the contributors always had work piled up on the weekend. John-David added they had other family obligations that were more important.
+
+> "I'm married I mean like family and other obligations so like finding that balance was was tricky." (17:14)
+
+This lack of time was difficult for them, but John-David managed to find a balance for a couple years after this talk. However, many of the other contributors on Lodash could not find the same balance and seemed to come and go.
+
+**For reference:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pqZGVV35BPU?start=853" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Interventions
+
+John-David cites many interventions both for the contributors planning to disengage and maintainers hoping to keep the project going. They encourage contributors to maintain a work life balance by trying to get through most pull requests during the week and then keeping their weekends free for other priroties such as family. 
+
+They encourage all contributors to account for burnout before it happens so that if they were to ever burnout, there would be "other people to step in and carry on the project." (34:54) John-David hopes all contributors will think about the project before leaving. They also don't want contributors to leave due to problems with the project such as a negative project direction.
+
+> "Starting from scratch is tough ... try to work with them to move the project in the direction you want or if you have to fork and go from there." (14:13)
+
+They discourage contributors to leave the project because it will only be more difficult to find or start a suitable project. Rather than leaving the project, they recommend contributors build upon it in their own fork. Ultimately they believe that this way, the project will still continue to improve and the contributors can be satisfied with their work.
