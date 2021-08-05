@@ -2,6 +2,7 @@
 title: Tags
 permalink: /tags
 ---
+
 {% capture tags %}
   {% for tag in site.tags %}
     {{ tag[0] }}

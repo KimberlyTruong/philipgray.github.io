@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "About"
-permalink: 
+permalink: /about
 ---
 
 According to GitHub's <a href="https://opensourcesurvey.org/2017/">2017 Open Source Survey</a>, of the software developers (and related positions) surveyed, they found that:
