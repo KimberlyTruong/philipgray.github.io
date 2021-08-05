@@ -1,6 +1,6 @@
 ---
-title: Tags
-permalink: /tags
+title: Codes
+permalink: /codes
 ---
 
 {% capture tags %}

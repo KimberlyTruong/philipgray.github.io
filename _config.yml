@@ -34,9 +34,9 @@ plugins:
 
 header_pages:
   - home.md
-  - codebook.md
   - directory.md
-  - tags.md
+  - codebook.md
+  - codes.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

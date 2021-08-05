@@ -60,7 +60,9 @@ During the first pass, we tagged every single reason why contributor were diseng
 
 The second pass was similar to the first pass, instead we looked for similar codes that could be combined. For example, the codes "Bullying" and "Toxicity" became "Community Hostility."
 
+# Results
 
+For each contributor, we have a post with the various codes and a summary of why they disengaged which can be found <a href="\directory">here</a>. The individual codes can be found <a href="\codes">here</a>, and the codebook with the descriptions <a href="\codebook">here</a>. 
 
 
 
