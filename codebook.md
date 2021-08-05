@@ -10,7 +10,7 @@ permalink:
 
 # Cultural Factors
 
-Placeholder
+These codes are related to the culture of the community. 
 
 ## Community Leadership
 
@@ -62,7 +62,7 @@ This contributor disengaged because of the hostile Linux kernel community. Altho
 
 # External Factors
 
-Placeholder
+These codes are related to influences (outside of the project) that result in the contributor disengaging. 
 
 ## Left Company Which Used the Project
 
@@ -115,7 +115,7 @@ Where contributors would disengage due to feelings of insecurity and incompetanc
   
 # Volunteering
 
-Placeholder
+These codes are related to the act of contributing in general. 
 
 ## Lack of Support
 
