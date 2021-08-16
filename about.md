@@ -1,7 +1,7 @@
 ---
 layout: home
-title: 
-permalink: 
+title: "About"
+permalink: /about
 ---
 
 According to GitHub's <a href="https://opensourcesurvey.org/2017/">2017 Open Source Survey</a>, of the software developers (and related positions) surveyed, they found that:
@@ -28,41 +28,7 @@ For text-based literature, we did the following to collect the data:
 
 ## Audiovisual-based Literature
 
-For audiovisual-based literature, we split our methods up into two. 
-
-### Conference Talks
-
-We did the following for the talks:
-
-* Using our own knowledge of Open Source conferences, and the top 30 Google search results for "Open Source Conference" we compiled a list of conferences
-* Using the YouTube Data API, got the title, publication date, and video IDs for videos related to the list of conferences we collected
-* Fed the video IDs into the PyTube API in order to download the automatically transcribed transcripts from YouTube
-* Used a scoring system to help filter out videos based on keywords found in the video's transcripts. 
-
-### Podcasts
-
-We did the following for podcasts:
-
-* Used the iTunes Podcast API to get the first 200 podcasts with the keywords, "open source"
-* For each podcast, we downloaded the RSS feed and got each episode description
-* We then used a scoring system to filter out episodes.
-* Transcribed the episodes
-
-## Coding
-
-After we've filtered our results, we began coding. We used a two-step coding approach. 
-
-### First Pass
-
-During the first pass, we tagged every single reason why contributor were disengaging or factors that were related to the contributor's disengagement. 
-
-### Second Pass
-
-The second pass was similar to the first pass, instead we looked for similar codes that could be combined. For example, the codes "Bullying" and "Toxicity" became "Community Hostility."
-
-# Results
-
-For each contributor, we have a post with the various codes and a summary of why they disengaged which can be found <a href="\directory">here</a>. The individual codes can be found <a href="\codes">here</a>, and the codebook with the descriptions <a href="\codebook">here</a>. 
+For audiovisual-based literature, we split our methods up into two. For podcast based literature we did the following:
 
 
 

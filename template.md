@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /036
+permalink: 
 ---
 
 ### Who?
